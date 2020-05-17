@@ -1,5 +1,7 @@
 # ods-filter
 
+Project to filter *.ods files.
+
 ## Project setup
 ```
 npm install

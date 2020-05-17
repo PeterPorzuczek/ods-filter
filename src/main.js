@@ -1,3 +1,5 @@
+require("./assets/styles/tailwind/tailwind-compiled.css");
+
 import Vue from "vue";
 import App from "./App.vue";
 
