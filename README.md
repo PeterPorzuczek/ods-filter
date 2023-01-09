@@ -1,6 +1,6 @@
 # ods-filter
 
-Project to filter *.ods files.
+Project to filter *.ods files. App allow a user to select specific criteria and only view rows in the spreadsheet that meet those criteria. For example, the app allow the user to specify a phrase and only show rows that contain data from with that phrase. The app could also allow the user to specify a specific text string or numerical value and only show rows that contain that value. Additionally, the app allow the user to specify multiple criteria and use logical order of filtering to combine them. The app could then display the filtered rows in a new ODS file or display them within the app itself.
 
 ## Project setup
 ```
